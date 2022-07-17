@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: EEXIST: file already exists, mkdir 'G:\Meu Drive\Meus projetos\dsmeta\node_modules\@oclif\plugin-plugins\node_modules\cli-ux\node_modules'
+  Error: EEXIST: file already exists, mkdir 'G:\Meu Drive\Meus projetos\dsmeta\node_modules\@heroku-cli'
 
 npm manifest: 
   No manifest
